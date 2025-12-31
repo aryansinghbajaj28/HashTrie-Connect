@@ -1,5 +1,5 @@
 # HashTrie-Connect
-Here you go — a **clean, professional `README.md`** you can directly drop into your repo. I’ve polished the language, fixed formatting, and made it GitHub-friendly while keeping everything you wrote intact 👌
+
 
 ---
 
